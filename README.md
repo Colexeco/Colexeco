@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning React.  
+⚡ Fun fact: I once grew my own pumpkin for Halloween.
+
 <!--
 **Colexeco/Colexeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
